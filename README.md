@@ -1,2 +1,2 @@
-# Ex0023
+# Ex002
 Exercício 002 em Python
